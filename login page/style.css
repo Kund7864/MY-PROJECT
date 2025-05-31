@@ -5,7 +5,12 @@
 }
 body{
     background-color: rgb(103, 8, 103);
+    width: 100%;
 }
-.box h1{
-    color:#ffff;
+
+main{
+    display: flex;
+    justify-content: center;
+    border: 2px solid;
+    background-color: #ffff;
 }
