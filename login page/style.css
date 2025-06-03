@@ -15,5 +15,6 @@ main{
     border: #fff;
    
     border-radius: 2%;
+    background-origin: padding-box;
    
 } 
